@@ -1,0 +1,56 @@
+{
+  "config": {
+    "title": "ncp-design",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "mode": "light"
+    },
+    "separator": "-",
+    "typescript": true,
+    "theme": "/Users/nimengge/Documents/workSpace/组件库模块/ncp-design/node_modules/docz-theme-umi/es/index.js",
+    "base": "/ncp-design",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "src/components/Button/index.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/ncp-design/Button",
+        "order": 1,
+        "sidebar": true,
+        "id": "a08e664b64d63394cab05b2e5d624522",
+        "filepath": "src/components/Button/index.mdx",
+        "link": "https://github.com/gaomeng965/components/edit/master/src/components/Button/index.mdx",
+        "slug": "src-components-button-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "基本用法",
+            "depth": 4,
+            "value": "基本用法"
+          }
+        ]
+      }
+    }
+  ]
+}
