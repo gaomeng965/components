@@ -16,6 +16,8 @@
     "braft-editor": "^2.3.8",
     "father": "^2.29.3",
     "jsoneditor": "^8.1.0",
+    "less": "^3.11.1",
+    "less-loader": "^6.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
@@ -25,7 +27,8 @@
     "dev": "npx --max_old_space_size=8096 father doc dev --host 0.0.0.0",
     "build": "father build",
     "build:doc": "father doc build",
-    "deploy": "father doc deploy"
+    "deploy": "father doc deploy",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"

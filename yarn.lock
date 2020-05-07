@@ -4769,22 +4769,10 @@ babel-eslint@10.1.0:
     eslint-visitor-keys "^1.0.0"
     resolve "^1.12.0"
 
-babel-eslint@^10.1.0:
-  version "10.1.0"
-  resolved "https://npm.elitescloud.com/babel-eslint/-/babel-eslint-10.1.0.tgz#6968e568a910b78fb3779cdd8b6ac2f479943232"
-  integrity sha1-aWjlaKkQt4+zd5zdi2rC9HmUMjI=
-  dependencies:
-    "@babel/code-frame" "^7.0.0"
-    "@babel/parser" "^7.7.0"
-    "@babel/traverse" "^7.7.0"
-    "@babel/types" "^7.7.0"
-    eslint-visitor-keys "^1.0.0"
-    resolve "^1.12.0"
-
-babel-eslint@^8.2.6:
+babel-eslint@^8.2.4, babel-eslint@^8.2.6:
   version "8.2.6"
-  resolved "https://npm.elitescloud.com/babel-eslint/-/babel-eslint-8.2.6.tgz#6270d0c73205628067c0f7ae1693a9e797acefd9"
-  integrity sha1-YnDQxzIFYoBnwPeuFpOp55es79k=
+  resolved "https://registry.yarnpkg.com/babel-eslint/-/babel-eslint-8.2.6.tgz#6270d0c73205628067c0f7ae1693a9e797acefd9"
+  integrity sha512-aCdHjhzcILdP8c9lej7hvXKvQieyRt20SF102SIGyY4cUIiw6UaAtK4j2o3dXX74jEmy0TJ0CEhv4fTIM3SzcA==
   dependencies:
     "@babel/code-frame" "7.0.0-beta.44"
     "@babel/traverse" "7.0.0-beta.44"
@@ -12964,6 +12952,16 @@ less-loader@^4.1.0:
     loader-utils "^1.1.0"
     pify "^3.0.0"
 
+less-loader@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/less-loader/-/less-loader-6.0.0.tgz#f7833177c2fc3de5014de072d5c26eca0954c1cb"
+  integrity sha512-k9KrSkjkdGCQwbKPHfbJT9AfRCmOCHCCjiQCc0v2fdVCRTlJvr1Si68Zk6Z4d4UyVkp0U/nEEdQeH4wV/jW8/g==
+  dependencies:
+    clone "^2.1.2"
+    less "^3.11.1"
+    loader-utils "^2.0.0"
+    schema-utils "^2.6.6"
+
 less-plugin-npm-import@2.1.0:
   version "2.1.0"
   resolved "https://npm.elitescloud.com/less-plugin-npm-import/-/less-plugin-npm-import-2.1.0.tgz#823e6986c93318a98171ca858848b6bead55bf3e"
@@ -12972,7 +12970,7 @@ less-plugin-npm-import@2.1.0:
     promise "~7.0.1"
     resolve "~1.1.6"
 
-"less@2.6.x || ^3.7.1", less@^3.8.1:
+"less@2.6.x || ^3.7.1", less@^3.11.1, less@^3.8.1:
   version "3.11.1"
   resolved "https://npm.elitescloud.com/less/-/less-3.11.1.tgz#c6bf08e39e02404fe6b307a3dfffafdc55bd36e2"
   integrity sha1-xr8I454CQE/mswej3/+v3FW9NuI=
