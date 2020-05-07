@@ -1,7 +1,8 @@
 {
-  "vendors.css": "/ncp-design/static/css/vendors.430dba489059148dd09d.css",
-  "vendors.js": "/ncp-design/static/js/vendors.96be3c9c.js",
-  "app.js": "/ncp-design/static/js/app.430dba489059148dd09d.js",
-  "src-components-button-index.js": "/ncp-design/static/js/src-components-button-index.e4046213.js",
+  "vendors.css": "/ncp-design/static/css/vendors.1a35ec716fd844542cc2.css",
+  "vendors.js": "/ncp-design/static/js/vendors.92d782d4.js",
+  "app.js": "/ncp-design/static/js/app.1a35ec716fd844542cc2.js",
+  "src-components-button-index.css": "/ncp-design/static/css/src-components-button-index.1a35ec716fd844542cc2.css",
+  "src-components-button-index.js": "/ncp-design/static/js/src-components-button-index.25674326.js",
   "index.html": "/ncp-design/index.html"
 }
