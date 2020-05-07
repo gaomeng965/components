@@ -111,6 +111,7 @@ export default function() {
 }
 ```
 
+
 ## 版本历史
 
 - `0.1.0`测试
@@ -118,5 +119,7 @@ export default function() {
 - `0.1.0--> 0.1.1`修改依赖版本;
 
 - `0.1.1--> 0.1.2`修改 readme&&修改目录结构;
+
+- `0.1.2--> 0.1.3`修改 cssModules配置;
 
 ## End

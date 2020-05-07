@@ -17,3 +17,19 @@
 ```js
 yarn dev
 ```
+
+## 打包发布
+
+```
+// 打包编译组件库
+yarn build
+
+// 编译组件库文档，该步骤可省略
+yarn build:doc
+
+// 部署组件库文档到github, 该步骤可省略
+yarn deploy
+
+// 发布到npm上，（注意修改版本号以及维护变根目录下的README里的版本更历史）
+npm publish --access public
+```
