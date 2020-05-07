@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-04-30 13:35:01
- * @LastEditTime: 2020-04-30 13:36:14
+ * @LastEditTime: 2020-05-07 13:55:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /ncp-design/.fatherrc.js
@@ -23,7 +23,7 @@ const options = {
 			}
 		]
 	],
-	// cssModules: true,
+	cssModules: true,
 	extractCSS: true,
 	lessInBabelMode: true,
 	runtimeHelpers: true,
