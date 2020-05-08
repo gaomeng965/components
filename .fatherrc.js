@@ -4,14 +4,14 @@
  * @LastEditTime: 2020-05-07 13:55:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /ncp-design/.fatherrc.js
+ * @FilePath: /gm-design/.fatherrc.js
  */
 const options = {
 	entry: 'src/index.js',
 	doc: {
-		title: 'ncp-design',
+		title: 'gm-design',
 		themeConfig: { mode: 'light' },
-		base: '/ncp-design'
+		base: '/gm-design'
 	},
 	extraBabelPlugins: [
 		[

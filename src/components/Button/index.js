@@ -4,7 +4,7 @@
  * @LastEditTime: 2020-05-07 13:56:16
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /ncp-design/src/components/Button/index.js
+ * @FilePath: /gm-design/src/components/Button/index.js
  */
 import { Button } from 'antd';
 import styles from './index.module.less'

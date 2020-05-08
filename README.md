@@ -3,19 +3,19 @@
 ## 1.安装
 
 ```js
-npm install ncp-design
+npm install gm-design
 ```
 
 或者用 yarn 安装
 
 ```js
-yarn add ncp-design
+yarn add gm-design
 ```
 
 ## 2. 使用
 
 ```jsx
-import { Button, Skeleton, Empty, Progress, Tag, Switch, Drawer, Badge, Alert } from 'ncp-design';
+import { Button, Skeleton, Empty, Progress, Tag, Switch, Drawer, Badge, Alert } from 'gm-design';
 import { useState } from 'react';
 import styles from './index.css';
 
@@ -121,5 +121,7 @@ export default function() {
 - `0.1.1--> 0.1.2`修改 readme&&修改目录结构;
 
 - `0.1.2--> 0.1.3`修改 cssModules配置;
+
+- `0.1.3--> 0.1.4`修改命名;
 
 ## End

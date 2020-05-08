@@ -1,9 +1,9 @@
 {
   "config": {
-    "title": "ncp-design",
+    "title": "gm-design",
     "description": "My awesome app using docz",
     "menu": [],
-    "version": "0.1.2",
+    "version": "0.1.4",
     "repository": false,
     "native": false,
     "codeSandbox": true,
@@ -13,7 +13,7 @@
     "separator": "-",
     "typescript": true,
     "theme": "/Users/nimengge/Documents/workSpace/组件库模块/ncp-design/node_modules/docz-theme-umi/es/index.js",
-    "base": "/ncp-design",
+    "base": "/gm-design",
     "plugins": [
       {},
       {},
@@ -30,7 +30,7 @@
       "key": "src/components/Button/index.mdx",
       "value": {
         "name": "Button",
-        "route": "/ncp-design/Button",
+        "route": "/gm-design/Button",
         "order": 1,
         "sidebar": true,
         "id": "a08e664b64d63394cab05b2e5d624522",
